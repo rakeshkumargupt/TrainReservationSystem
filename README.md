@@ -1,2 +1,2 @@
 # TrainReservationSystem
-This is mini project of Train Reservation System running on Java Swing.
+This is mini project of Train Reservation System running on Java.
